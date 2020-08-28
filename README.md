@@ -22,4 +22,4 @@ npm install axios --save
 
 -covid <country-name>
 
-![:)](https://i.ibb.co/k6sNnP4/covid.png=100x20)
+![:)](https://i.ibb.co/TtQ196j/Covid.png)
