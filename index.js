@@ -55,4 +55,4 @@ bot.on('message', async (message) => {
     }
 });
 
-bot.login('Njc3ODE3ODAxMTU4Njg4ODA5.XkZxBQ.MXFAzeMyBnn-4n1Lp96WAAYkLt8'); //token goes here, unless your using heroku
+bot.login('TOKEN'); //token goes here, unless your using heroku
