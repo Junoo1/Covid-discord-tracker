@@ -20,7 +20,7 @@ bot.on('message', async (message) => {
 
     if (message.author.bot) return;
     //Will return if the user is a bot
-    //if(message.author.id === client.user.id) return; This is gonna return if the message author is the bot, it will keep going if its another bot.
+    //if(message.author.id === bot.user.id) return; This is gonna return if the message author is the bot, it will keep going if its another bot.
 
     if (message.channel.type === "dm") return;
     //Return if its a dm to the bot
