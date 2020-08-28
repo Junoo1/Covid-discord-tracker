@@ -1,11 +1,11 @@
 const Discord = require('discord.js');
-const bot = new Discord.Client();
 const axios = require('axios');
+const bot = new Discord.Client();
 const countries = require("./countries.json");
 const url = 'https://api.covid19api.com/total/country/';
 
 
-const prefix = ">"
+const prefix = "-"
 
 bot.on('ready', () => {
     console.log(`Logged in as ${bot.user.tag} :)`);
