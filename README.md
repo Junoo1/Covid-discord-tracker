@@ -4,7 +4,7 @@ A simple discord bot used to report cases of covid for a specific country.
 
  ### About
  
- Covid-bot uses a free api for data on the Coronavirus, [api link](https://covid19api.com/) 
+ Covid-bot uses a free api for data on the Coronavirus [api link](https://covid19api.com/),
  This code was used in my bot [invite link](https://discord.com/oauth2/authorize?client_id=721013842200756276&permissions=805563607&scope=bot) show support? (◡ω◡✿)
  
 ### Installation
